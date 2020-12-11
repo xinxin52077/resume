@@ -20,31 +20,69 @@
 
 > 期望薪资：5k~6k
 
+> 到岗时间: 一周内
+
 ## 职业技能
 
-+ 掌握 HTML5 + CSS3，能够熟练使用HTML5和CSS3制作静态页面
-+ 了解JavaScript
-+ 熟悉移动端适配方法，如：百分比、rem、vw\vh等，可以进行移动端页面开发
-+ 熟悉vue框架，能够上手vue项目开发
++ 能够使用HTML、CSS还原设计搞，掌握DIV+CSS基本页面布局、flex弹性盒模型布局，以及百分比、rem、vw等移动端适配布局。
++ 拥有良好的JavaScript基础，理解作用域\作用域链、预编译、闭包、立即执行函数、原型\原型链、继承。
++ 熟悉Vue.js框架，熟悉使用Vuecli进行组件模块化开发，能够使用vue-cli脚手架搭建基础项目。
++ 掌握webpack打包工具的使用。
++ 掌握bootstrap框架的使用。
++ 掌握git、github进行项目代码管理。
++ 掌握npm包管理器的使用。
++ 了解Sass预处理器的使用。
++ 了解axios的使用。
 
 ## 项目经验
 
-### 移动端饿了么点餐项目
+### PC端橘易网页
 
-* 关键词：vue.js、rem适配、vue过渡
-* 源码链接：https://github.com/xinxin52077/element-app
-* 描述：此项目是使用vue框架构建的一个饿了么点餐项目
-
-### 京东商城小程序
-
-* 源码链接：https://github.com/xinxin52077/jingdong-xcx
-* 描述：此项目是使用开发者工具构建的项目。
+* 项目预览链接: https://xinxin52077.github.io/juyiwang/juyi/dist/index.html
+* 描述：模仿橘易门店系统，主要模拟实现了页面的用户登录与注册效果。
+* 内容：技术栈是vue；主要基于HTML5（DIV+CSS+JS）以及根据网页的效果图来实现此项目；实现了注册和登录主要组件的编写；利用正则表达式来实现手机号码验证、以及使用data中的数据来验证密码是否正确。
+* 源码链接：https://github.com/xinxin52077/juyiwang
 
 ### 简历生成器
 
-* 源码连接：https://github.com/xinxin52077/jianli
-* 描述：此项目是使用vue框架构建的，用到了markdown插件和代码高亮插件。
+* 项目预览链接: https://xinxin52077.github.io/resume/resume/dist/index.html
+* 描述：基于Vue.js实现的一个会动的简历模板生成器。
+* 内容：技术栈是vue；主要基于HTML5（DIV+CSS+JS）来实现此项目；实现了文本输出组件、样式输出主要组件的编写；利用markdown插件和raw-loader插件来引入外部.txt文件（个人简历文本内容）。主要使用async和await，以及Promise对象和定时器，来控制整个项目页面内容的输出。
+* 源码链接：https://github.com/xinxin52077/jianli
+
+### 移动端去哪儿网
+
+* 项目预览链接: https://xinxin52077.github.io/Travel/travel/dist/index.html
+* 描述：基于Vue.js实现的仿移动端去哪儿网景点的移动端项目模实战开发。
+* 内容：技术栈是vue；实现了定位城市选择、热销推荐、景区详情、周末去哪玩等主要组件的编写；使用了axios来请求本地json数据；利用vuex对一些数据进行状态管理；使用better-scroll来实现页面滑动效果。使用keep-alive提高了用户体验，减少重复的ajax请求。
+* 源码连接：https://github.com/xinxin52077/Travel
+
+### 移动端点餐系统
+
+* 项目预览链接: https://xinxin52077.github.io/eleme/eleme/dist/index.html
+* 描述：基于Vue.js实现的仿饿了么点餐商家详情页的移动端项目实战开发。一个商家点餐系统移动网站，主要实现了商品选择、加入购物车、购物车商品展示、去结算等功能。
+* 内容：技术栈是vue；实现了商品、评论、商家、购物车等主要组件的编写；使用了axios来请求本地json数据；使用better-scroll来实现页面滑动效果。
+* 源码链接: https://github.com/xinxin52077/eleme
+
+### 小程序--京东商城
+
+* 描述：基于微信开发者实现的仿京东商城小程序的小程序端项目实战开发。实现了用户微信授权、商品分类、商品详情、加入购物车、去结算等主要功能。
+* 内容：实现了商品分类、商品详情、加入购物车等主要组件的编写。
+* 源码链接: https://github.com/xinxin52077/jingdong-xcx
+
 
 ## 教育经历
 
 ### 广州涉外经济职业技术学院   大学专科   2016至2019年
+
+## 工作经历
+
+### 2019/3 - 2019/9  广州辰龙教育科技有限公司 网络编辑
++ 主要负责：根据网站业务规划内容，确定网站主导思想和主题方向，并完成内容编写与发布。
+
+## 自我评价
+
++ Github:https://github.com/xinxin52077
++ 热爱前端开发，乐于钻研学习新技术。
++ 喜欢用最扎实的代码，写出合理的页面。
++ 喜欢阅读技术社区文章，在知乎上会发表前端技术文章。
